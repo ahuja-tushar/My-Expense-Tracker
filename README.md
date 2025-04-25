@@ -15,6 +15,14 @@ An Expense Tracker web app built with the MERN stack, designed to help users tra
 - View transaction history
 - Responsive charts and graphs to visualize income and expenses
 - Notifications for user actions and errors
+  
+
+![1](https://github.com/user-attachments/assets/e9fa44ec-2536-469b-be44-f138d7c8b269)
+![2](https://github.com/user-attachments/assets/bb0eb77a-33ec-4c62-bdf5-14f70d00a4d3)
+![3](https://github.com/user-attachments/assets/03257200-d820-4112-8be7-866f3cc2abed)
+![4](https://github.com/user-attachments/assets/39c75dc1-ecbf-4c78-816c-8ba617624702)
+![5](https://github.com/user-attachments/assets/e46eb11c-6ea7-42d6-8f87-8773e5af9a05)
+
 
 
 ## Installation
